@@ -13,8 +13,9 @@
   justify-content: space-evenly;
   gap: 30px;
   background-color: rgb(238, 252, 255);
-  min-height: 70vh;
+  min-height: 100vh;
   margin-bottom: 20px;
+  background-size: cover;
 }
 
 .head {
