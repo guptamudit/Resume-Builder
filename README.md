@@ -8,7 +8,7 @@ Designed and developed a dynamic and user-friendly resume builder web applicatio
 
 ### ✅ Dependencies :
 - HTML
-- Modular CSS
+- Module CSS
 - JavaScript
 - ReactJs
   
